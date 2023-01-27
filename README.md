@@ -1,7 +1,31 @@
-- 👋 Hi, I’m @InoueAkiraa and I am improving myself in the development area, currently I am going to the 2nd company that was willing to accept me as an intern
-- 👀 I’m interested in object-oriented programming using C#, Java, relational database management and Microsoft Azure
-- 🌱 I’m currently learning to use SQL Server, learning more about OOP using C# and seeing Microsoft Azure for the first tim
-- 💞️ I’m looking to collaborate on with everything I can help, always dedicating myself to the maximum to absorb the knowledge that is passed on to me and develop myself more and more.
-- 📫 My e-mail is akiraij@hotmail.com
+<p align="left">
+  Olá meu nome é Akira, estou cursando Ciência da Computação no perídodo Matutino na Universidade Anhanguera Uniderp e estagiando como desenvolvedor desde Maio de 2022, atualmente eu trabalho com Desenvolvimento de Software Back-end na linguagem CSharp e utilizo SQL Server como banco de dados, mas já trabalhei com Delphi 11 e FireBirdSQL.
+</p>
 
+<p align="left">
+  🦄 Linguagens: HTML (BootStrap 4), CSS, JAVA SCRIPT (JQuery), C#, SQL SERVER, FireBird e Delphi 11 </strong>
+</p>
 
+<p align="left">
+  💼 Ferramentas: Visual Studio Code, Visual Studio, Spring Tool Suite e Sublime </strong>
+</p>
+
+<p align="left">
+  💌 Contato: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jrakirag@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/renato-akira-inoue-junior-3a0845215" /></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/akira.ij"/></a>
+  
+  [![card](https://github-readme-stats.vercel.app/api?username=inoueakira&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![inoue](https://github-readme-stats.vercel.app/api/top-langs/?username=inoueakira&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
+</p>  
