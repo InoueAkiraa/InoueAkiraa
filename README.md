@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: HTML (BootStrap 4), CSS, JAVA SCRIPT (JQuery), C#, SQL SERVER, FireBird e Delphi 11 </strong>
+  🖥️  Linguagens: HTML (BootStrap 4), CSS, JAVA SCRIPT (JQuery), C#, SQL SERVER, FireBird e Delphi 11 </strong>
 </p>
 
 <p align="left">
