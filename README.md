@@ -15,13 +15,13 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="jrakirag@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jrakirag@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://br.linkedin.com/in/renato-akira-inoue-junior-3a0845215" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/renato-akira-inoue-junior-3a0845215" /></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/akira.ij" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/akira.ij"/></a>
   
   [![card](https://github-readme-stats.vercel.app/api?username=inoueakira&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
