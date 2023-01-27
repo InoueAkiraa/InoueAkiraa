@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/akira.ij"/></a>
   
   [![card](https://github-readme-stats.vercel.app/api?username=inoueakira&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  [![inoue](https://github-readme-stats.vercel.app/api/top-langs/?username=inoueakira&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![inoue](https://github-readme-stats.vercel.app/api/top-langs/?username=inoueakiraa&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
  
 </p>  
