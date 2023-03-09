@@ -1,9 +1,9 @@
 <p align="left">
-  Olá meu nome é Akira, estou cursando Ciência da Computação no perídodo Matutino na Universidade Anhanguera Uniderp e estagiando como desenvolvedor desde Maio de 2022, atualmente eu trabalho com Desenvolvimento de Software Back-end na linguagem CSharp e utilizo SQL Server como banco de dados, mas já trabalhei com Delphi 11 e FireBirdSQL.
+  Olá meu nome é Akira, estou cursando Ciência da Computação no perídodo Matutino na Universidade Anhanguera Uniderp e estagiando como desenvolvedor desde Maio de 2022, atualmente eu trabalho com Desenvolvimento Web, utilizando a linguagem CSharp no Back-end e SQL Server como banco de dados, já cheguei a trabalhar com Delphi 11 e FireBirdSQL.
 </p>
 
 <p align="left">
-  🖥️  Linguagens: HTML (BootStrap 4), CSS, JAVA SCRIPT (JQuery), C#, SQL SERVER, FireBird e Delphi 11 </strong>
+  🖥️  Linguagens: C#, HTML (BootStrap 4), CSS, JAVA SCRIPT (React e JQuery), SQL e Delphi 11 </strong>
 </p>
 
 <p align="left">
